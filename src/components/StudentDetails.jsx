@@ -212,13 +212,6 @@ export default function StudentDetails(props) {
                       </td>
                       <td className="text-center">مقبول</td>
                     </tr>
-                    <tr>
-                      <td className="p-2">
-                        الخرسانة المسلحة (1 ) -{" "}
-                        <span className="text-red-500">ثانية</span>
-                      </td>
-                      <td className="text-center">مقبول</td>
-                    </tr>
 
                     <tr>
                       <td className="p-2.5 text-[13px] font-bold bg-[#ddecf7] flex items-center justify-between border-0">
